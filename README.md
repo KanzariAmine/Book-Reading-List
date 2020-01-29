@@ -1,11 +1,17 @@
 # Book Reading List 
 
->This app it used to mark a list of reading book, 
->And i'm useing  the new React features (React Hooks).
+>Book Reading List it used to mark a list of reading book.
+
+>I'm useing  the new React features (React Hooks) without the use of Redux.
+
 # Technology Used:
 
->React(Hooks)
+1- React Hooks:
+ - useState.
+ - useContex.
+ - useEffect.
+ - useReducer.
+ 
+2- Html5
 
->Html5
-
->Css3
+3- Css3
