@@ -1,8 +1,8 @@
 # Book Reading List 
 
->Book Reading List it used to mark a list of reading book.
+>Book reading list used to mark the list of books read.
 
->I'm useing  the new React features (React Hooks) without the use of Redux.
+>I'm using the new features of React (React Hooks) without the use of Redux.
 
 # Technology Used:
 
