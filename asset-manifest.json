@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https//kanzariamine.github.io/readingbook/static/css/main.f79cbd9c.chunk.css",
+    "main.js": "https//kanzariamine.github.io/readingbook/static/js/main.c3b0638e.chunk.js",
+    "main.js.map": "https//kanzariamine.github.io/readingbook/static/js/main.c3b0638e.chunk.js.map",
+    "runtime-main.js": "https//kanzariamine.github.io/readingbook/static/js/runtime-main.9304c182.js",
+    "runtime-main.js.map": "https//kanzariamine.github.io/readingbook/static/js/runtime-main.9304c182.js.map",
+    "static/js/2.6f892b36.chunk.js": "https//kanzariamine.github.io/readingbook/static/js/2.6f892b36.chunk.js",
+    "static/js/2.6f892b36.chunk.js.map": "https//kanzariamine.github.io/readingbook/static/js/2.6f892b36.chunk.js.map",
+    "index.html": "https//kanzariamine.github.io/readingbook/index.html",
+    "precache-manifest.3d8ab2c6acd508f28bd94e4e6237547d.js": "https//kanzariamine.github.io/readingbook/precache-manifest.3d8ab2c6acd508f28bd94e4e6237547d.js",
+    "service-worker.js": "https//kanzariamine.github.io/readingbook/service-worker.js",
+    "static/css/main.f79cbd9c.chunk.css.map": "https//kanzariamine.github.io/readingbook/static/css/main.f79cbd9c.chunk.css.map",
+    "static/js/2.6f892b36.chunk.js.LICENSE": "https//kanzariamine.github.io/readingbook/static/js/2.6f892b36.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9304c182.js",
+    "static/js/2.6f892b36.chunk.js",
+    "static/css/main.f79cbd9c.chunk.css",
+    "static/js/main.c3b0638e.chunk.js"
+  ]
+}
