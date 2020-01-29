@@ -5,7 +5,7 @@ function BookDetails({book}) {
   const { removeBook } = useContext(BooksContext);
   return (
  <li onClick={() => removeBook(book.id)}>
-   <div className="book">{book.title}</div>
+   <div className="title">{book.title}</div>
    <div className="author">{book.author}</div>
  </li>
   )
